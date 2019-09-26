@@ -1,7 +1,5 @@
 # ProgessHud using SwiftPackage
 
-Progress Hud using Siwft Package
-
 ## How to use
 **Open xCode Project**
 
