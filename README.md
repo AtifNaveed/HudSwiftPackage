@@ -2,7 +2,7 @@
 
 Progress Hud using Siwft Package
 
-# How to use
+## How to use
 **Open xCode Project**
 
     xCode Menu > File > Swift Packages > Add Package Dependency 
