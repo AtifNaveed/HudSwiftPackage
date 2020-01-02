@@ -1,6 +1,6 @@
 # ProgessHud using SwiftPackage
 
-## How to use
+## How to use this package
 **Open xCode Project**
 
     xCode Menu > File > Swift Packages > Add Package Dependency 
