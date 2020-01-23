@@ -10,7 +10,7 @@
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_285/v1569500900/2_ocwgue.png)
 
 
-## Usage
+## Usage:
     var hud = SwiftyProgressHud()
     hud.show(view: self.view)
 
