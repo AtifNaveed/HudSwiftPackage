@@ -14,7 +14,7 @@
     var hud = SwiftyProgressHud()
     hud.show(view: self.view)
 
-## Example
+## Example:
 
     import UIKit
     import SwiftyProgressHud
