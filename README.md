@@ -1,4 +1,4 @@
-# ProgessHud using swift package
+# ProgessHud using swift package.
 
 ## How to use this package?
 **Open xCode Project**
