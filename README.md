@@ -40,7 +40,7 @@
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_656/v1569500898/1_ddtx3s.png)
 
 
-## Author
+## Author:
 
 AtifNaveed, atif.gcucs@gmail.com
 
