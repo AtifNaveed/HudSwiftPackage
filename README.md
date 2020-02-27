@@ -1,4 +1,4 @@
-# ProgessHud using swift package.
+# ProgessHud or Activity indicator using swift package.
 
 ## How to use this package?
 **Open xCode Project:**
