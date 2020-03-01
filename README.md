@@ -3,7 +3,7 @@
 ## How to use this package?
 **Open xCode Project:**
 
-    xCode Menu > File > Swift Packages > Add Package Dependency 
+    Goto xCode Menu > File > Swift Packages > Add Package Dependency 
     > https://github.com/AtifNaveed/HudSwiftPackage.git 
     > Enter > Next > Finish
 
