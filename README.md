@@ -28,7 +28,7 @@
         }
     
         func showHud() {
-            hud.text = "Loading"
+            hud.text = "Loading..."
             hud.show(view: self.view)
         }
     
